@@ -1,0 +1,11 @@
+{
+    "steps": [
+        {
+            "number": 0,
+            "command_string": "cat",
+            "output": "",
+            "stderr": "",
+            "return": 0
+        }
+    ]
+}

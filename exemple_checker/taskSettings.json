@@ -1,0 +1,15 @@
+{
+"checker": "tests/gen/checker.py",
+"correctSolutions": [],
+"defaultEvaluationSolutions": [{
+    "id": "@solutionId",
+    "compilationDescr": {
+        "language": "python3",
+        "files": [{"name": "runner.py",
+                   "path": "$TASK_PATH/tests/gen/commands.py"}],
+        "dependencies": [{"name": "solution.py",
+                          "path": "@solutionPath",
+                          "content": "@solutionContent"}]
+        },
+    "compilationExecution": "@defaultSolutionCompParams"}]
+}
